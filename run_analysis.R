@@ -10,6 +10,7 @@
 # 8. Group by and summarise data into the format which is asked for
 
 
+
 # 1.download zip file
 setwd("~/R/getdata")
 url<-"http://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
